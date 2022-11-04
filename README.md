@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 Now I’m working on [HTML5,CSS3,BOOTSTRAP4](https://saminyeasher.github.io/saminyeasher/)
+- 👯 Now I’m working on [HTML5,CSS3,BOOTSTRAP4](https://saminyeasher.github.io/saminyeasher1/)
 
-- 👨‍💻 My recent project is **https://saminyeasher.github.io/saminyeasher/**
+- 👨‍💻 My recent project is **https://saminyeasher.github.io/saminyeasher1/**
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01f9270b354df8d257](https://www.upwork.com/freelancers/~01f9270b354df8d257)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **samismet01@gmail.com**
 
-- 📄 Know about my experiences [https://saminyeasher.github.io/saminyeasher/CV%20of%20Md.%20Samin%20Yeasher.pdf](https://saminyeasher.github.io/saminyeasher/CV%20of%20Md.%20Samin%20Yeasher.pdf)
+- 📄 Know about my experiences [https://saminyeasher.github.io/saminyeasher1/CV%20of%20Md.%20Samin%20Yeasher.pdf](https://saminyeasher.github.io/saminyeasher/CV%20of%20Md.%20Samin%20Yeasher.pdf)
 
 - ⚡ Fun fact **Learning everything as though the world were about to end.**
 
