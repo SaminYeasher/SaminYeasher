@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saminyeasher&label=Profile%20views&color=0e75b6&style=flat" alt="saminyeasher" /> </p>
 
-- 🔭 I’m currently studing in BSc. in **Computer Science & Engineering**
+- 🔭 I’m pursuing a **BSc.** in **Computer Science & Engineering** right now.
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
