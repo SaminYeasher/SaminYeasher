@@ -10,7 +10,9 @@
 
 - 👯 Now I’m working on [HTML5,CSS3,BOOTSTRAP4](https://saminyeasher.github.io/saminyeasher/)
 
-- 👨‍💻 All of my projects are available at [https://saminyeasher.github.io/saminyeasher/](https://saminyeasher.github.io/saminyeasher/)
+- 👨‍💻 My recent project is **https://saminyeasher.github.io/saminyeasher/**
+
+- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01f9270b354df8d257](https://www.upwork.com/freelancers/~01f9270b354df8d257)
 
 - 📝 I regularly write articles on [https://www.blogger.com/profile/15457343572269600748](https://www.blogger.com/profile/15457343572269600748)
 
