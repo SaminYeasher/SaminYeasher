@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **samismet01@gmail.com**
 
-- 📄 Know about my experiences [https://saminyeasher.github.io/saminyeasher1/CV%20of%20Md.%20Samin%20Yeasher.pdf](https://saminyeasher.github.io/saminyeasher/CV%20of%20Md.%20Samin%20Yeasher.pdf)
+- 📄 Know about my experiences [https://saminyeasher.github.io/saminyeasher1/CV%20of%20Md.%20Samin%20Yeasher.pdf](https://saminyeasher.github.io/saminyeasher1/CV%20of%20Md.%20Samin%20Yeasher.pdf)
 
 - ⚡ Fun fact **Learning everything as though the world were about to end.**
 
