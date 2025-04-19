@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://www.blogger.com/profile/15457343572269600748](https://www.blogger.com/profile/15457343572269600748)
 
-- 💬 Ask me about **HTML,CSS,BOOTSTARP**
+- 💬 Ask me about **HTML,CSS,BOOTSTARP5,JavaScript,Python,Django,React,MongoDB**
 
 - 📫 How to reach me **samismet01@gmail.com**
 
