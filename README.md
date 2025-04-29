@@ -6,7 +6,7 @@
 
 - 🔭 I’m pursuing a **BSc.** In **Computer Science & Engineering** right now.
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development** with MERN and JWT auth.
 
 - 👯 Now I’m working on [HTML5,CSS3,BOOTSTRAP4](https://saminyeasher.github.io/saminyeasher1/)
 
