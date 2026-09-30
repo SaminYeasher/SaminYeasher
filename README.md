@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saminyeasher&label=Profile%20views&color=0e75b6&style=flat" alt="saminyeasher" /> </p>
 
-username=saminyeasher&show_icons=true&locale=en&layout=compact" alt="saminyeasher" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saminyeasher&show_icons=true&locale=en" alt="saminyeasher" /></p>
 
