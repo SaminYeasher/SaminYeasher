@@ -4,25 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saminyeasher&label=Profile%20views&color=0e75b6&style=flat" alt="saminyeasher" /> </p>
 
-- 🔭 Will be graduated soon.
-
-- 🌱 I’m currently learning **Full Stack Web Development** with MERN and JWT auth.
-
-- 👯 Now I’m working on [HTML5,CSS3,BOOTSTRAP4](https://saminyeasher.github.io/saminyeasher1/)
-
-- 👨‍💻 My recent project is **https://saminyeasher.github.io/saminyeasher1/**
-
-- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01f9270b354df8d257](https://www.upwork.com/freelancers/~01f9270b354df8d257)
-
-- 📝 I regularly write articles on [https://www.blogger.com/profile/15457343572269600748](https://www.blogger.com/profile/15457343572269600748)
-
-- 💬 Ask me about **HTML,CSS,BOOTSTARP5,JavaScript,Python,Django,React,MongoDB**
-
-- 📫 How to reach me **samismet01@gmail.com**
-
-- 📄 Know about my experiences [https://saminyeasher.github.io/saminyeasher1/CV%20of%20Md.%20Samin%20Yeasher.pdf](https://saminyeasher.github.io/saminyeasher1/CV%20of%20Md.%20Samin%20Yeasher.pdf)
-
-- ⚡ Fun fact **Learning everything as though the world were about to end.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
